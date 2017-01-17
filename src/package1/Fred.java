@@ -10,7 +10,7 @@ import java.util.Scanner;
  */
 public class Fred {
     public static void main(String [] args){
-        System.out.println("sss");
+        System.out.println("sssab");
         File sourceFile = new File("cccccc.text");
         try {
             sourceFile.createNewFile();
